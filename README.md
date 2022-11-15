@@ -1,3 +1,2 @@
 
-# Should Complete Linux Incomplete Commands
-# This Is Reminder When I See This File
+only jenkins file contain and this Repo is for sample purpose 
